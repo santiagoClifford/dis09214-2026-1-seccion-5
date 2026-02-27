@@ -2,7 +2,7 @@
 
 Repositorio del curso DIS09214 pensamiento computacional, sección 4.
 
-Esta sección es impartida por profesore aarón montoya, en conjunto con ayudante vania paredes.
+Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudante XXXXXX YYYYYY.
 
 ## Secciones
 
