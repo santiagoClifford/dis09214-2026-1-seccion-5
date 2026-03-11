@@ -98,10 +98,26 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
   * [Sister Corita Kent - Immaculate Heart College Art Department Rules](https://designmanifestos.org/sister-corita-kent-immaculate-heart-college-art-department-rules/)
   * [Charles Eames - Advice for students](https://designmanifestos.org/charles-eames-advice-for-students/)
 
-* The Coding Train <https://thecodingtrain.com/>
+* <https://www.verostko.com/alg-isea94.html>
 
 * De Stijl
 
-* <https://mermaid.live/>
+* Calculadoras
 
-* <https://coolors.co/>
+  * <https://easings.net/>
+
+  * <https://mermaid.live/>
+
+  * <https://coolors.co/>
+
+* <https://p5js.org/education-resources/>
+ 
+  * The Coding Train <https://thecodingtrain.com/>
+
+  * <https://github.com/processing/p5.js-getting-started-es>
+
+  * <https://bmoren.github.io/p5js-cheat-sheet/es.html>
+
+  * <https://adamherst.art/introduction_to_generative_drawing_letter.pdf>
+
+  * <https://aijun19.github.io/TheAnimationCodeBook/curriculum.html>

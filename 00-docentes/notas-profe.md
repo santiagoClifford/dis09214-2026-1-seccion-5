@@ -1,5 +1,11 @@
 # Apuntes del profesor para el curso
 
+<https://www.fundacionbotin.org/89dguuytdfr276ed_uploads/2015_08_21_08_26_04.pdf>
+
+<https://illmindofryza1.wordpress.com/2016/08/17/sol-lewitt-wall-painting-118/>
+
+<https://www.amygoodchild.com/blog/computer-art-50s-and-60s>
+
 ## Trabajo con tipografías
 
 ```js
