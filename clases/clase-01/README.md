@@ -33,7 +33,7 @@
 
 ## apuntado por stgo
 
-# sesion-01
+### sesion-01
 
 DIS09214
 
@@ -43,14 +43,14 @@ primera clase kemosión
 
 Rep180. Lab 12
 
-## presentacion
+#### presentacion
 
-matías es sonididasta, y magister en artes 
-mediales. Ahora en proceso de codctorado en artes y humanidades.
+Matías es sonidista, y magister en artes
+mediales. Ahora en proceso de doctorado en artes y humanidades.
 
 Hace clases en artes y en diseño.
 
-## cátedra
+#### cátedra
 
 el diseño, como disciplina, es una cajita estática en la que uno se mueve? cerrada para otras áreas? en realidad es una manera de pensar, flexible y pemreable a otra disciplinas, pueden moverse.
 
@@ -58,7 +58,7 @@ En el area solemos usar GitHub. Es una web donde se alojan repos, siendo repo = 
 
 En este curso trabajaremos con el [editor p5js](https://editor.p5js.org)
 
-### formalidades
+##### formalidades
 
 tendremos 2 solemnes y un examen.
 
@@ -78,9 +78,9 @@ Todas las solemnes serán evaluadas en conjunto con sus entregas anteriores, a m
 
 Es importante acreditar procesos, trackear avances y esto es parte del curso. Se tendrá en cuenta esto para las evaluaciones.
 
-Por parte del equipo docente, toda la docuemntación estará disponible en el [repo del curso](https://github.com/disenoUDP/dis09214-2026-1-seccion-5).
+Por parte del equipo docente, toda la documentación estará disponible en el [repo del curso](https://github.com/disenoUDP/dis09214-2026-1-seccion-5).
 
-## pensamiento computacional
+#### pensamiento computacional
 
 ¿porqué se llama así?
 
@@ -88,35 +88,35 @@ el foco está en el sujeto de la frase, "pensamiento". LO importante es adquirir
 
 Libro How to speak machine (John Maeda): cuenta la hstoria de la programación, antes, el computador era un oficio, una persona que computaba cálculos. La computación tiene que ver ocn eso.
 
-Es importante que aprendadn por el contextp histórico actual en el que vivimos.
+Es importante que aprendan de computación por el context histórico actual en el que vivimos.
 
-Google images, instagram, youtube, el excell de la lista, los estudiantes en la sala ¿Qué tienen en común? Están organzados en formato de grilla.
+Google images, Instagram, YouTube, el excel de la lista, los estudiantes en la sala ¿Qué tienen en común? Están organizados en formato de grilla.
 
-Para la U, somos nuestro rut, el curso es un códigio(DIS09214), para que la U considere que pasaste un curso, necesita un dato, una nota. Y así es como funciona el mundo computacional. Todo son datos
+Para la U, somos nuestro rut, el curso es un códiigo (DIS09214), para que la U considere que pasaste un curso, necesita un dato, una nota. Y así es como funciona el mundo computacional. Todo son datos
 
-Ejemplo, las imágenes son una tabla. Están hecha por pequeños datos llamados pixeles.
+Ejemplo, las imágenes son una tabla de excell. Están hecha por pequeños datos llamados pixeles.
 
-Casi todas la estrucutras sociales de la actualidad son tablas de excel. Pero sí existen cosas más allá de eso, todo lo que asociamos con lo "humano".
+Casi todas la estrucutras sociales de la actualidad son tablas de excell. Pero sí existen cosas más allá de eso, todo lo que asociamos con lo "humano".
 
-#### lógica computacional
+##### lógica computacional
 
 ¿qué es un algoritmo?
 
 es un método de resolución de problemas. El hecho de planificar es algorítmico. Ejemplo planificar cómo irse a la casa es un algoritmo: salir de un edificio, tomar la micro, caminar, parar en el semáforo, etc.
 
-etimologicamente viene de "al-Khwārizmī" un matemático de alrededor del año 800. (es el que sale en la portada de la algebra de baldor)
+Etimológicamente viene de [al-Khwārizmī](https://en.wikipedia.org/wiki/Al-Khwarizmi) un matemático de alrededor del año 800. (es el que sale en la portada de la [álgebra de baldor](https://es.wikipedia.org/wiki/Álgebra_de_Baldor))
 
 los algoritmos tienen mucho que ver con la estadística, y de ahí podemos interpretar que viene la palabra Estado. El ente que regula la información organizada
 
-#### antecedente de la computación
+##### antecedente de la computación
 
-La máquina de jacquard: una de las primera implementaciones de la lógica del código, fue con fines textiles.
+[Telar de Jacquard](https://es.wikipedia.org/wiki/Telar_de_Jacquard): una de las primera implementaciones de la lógica del código, fue con fines textiles.
 
 Una lógica similar fue utilizada con la máquina de Turing, que aparece en la película "Código Enigma"
 
-ada lovelace: una matemática hija del poeta lord byron. Tuvo mucho que ver con la implementación de las primeras calculadora. Imaginó cómo funcionarían los algoritmos décadas antes de que sus ideas pudieran ser implementadas.
+[Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace): una matemática hija del poeta [Lord Byron](https://es.wikipedia.org/wiki/Lord_Byron). Tuvo mucho que ver con la implementación de las primeras calculadora. Imaginó cómo funcionarían los algoritmos décadas antes de que sus ideas pudieran ser implementadas.
 
-Los computadores son la implemetancion electrica de la lógica de los algoritmos.
+Los computadores son la implementación eléctrica de la lógica de los algoritmos.
 
 ### sol lewitt
 
@@ -128,21 +128,21 @@ respuestas:
 - concepto
 - sistemas de módulos
 
-él trabajaba en un estudio de sieño y se dio cuenta que en el arte él tenía que hacer las cosas, pero se comparaba con los arquitectos, quienes hacen la planificación y luego otres ejecutaban la obra. ¿Porqué yo tengo que relaizar mi propia obra?¿Por qué no puedpo ser como una compsitora o un coreógrafo?
+él trabajaba en un estudio de sueño y se dio cuenta que en el arte él tenía que hacer las cosas, pero se comparaba con los arquitectos, quienes hacen la planificación y luego otres ejecutaban la obra. ¿Porqué yo tengo que realizar mi propia obra?¿Por qué no puedo ser como una compositora o un coreógrafo?
 
 analizamos la obra de los cubos. La cual inspiró problemas matemáticos.
 
-Sol lewitt, tiene muchas series, con obras enumeradas.
+Sol Lewitt, tiene muchas series, con obras enumeradas.
 
 wall drawing 118: conjunto de instrucciones precisas.
 
-![instrucciones de wall drawng 118](./imgs/walldrawing-118-instruction.png)
+![instrucciones de wall drawing 118](./imgs/walldrawing-118-instruction.png)
 
 esto recuerda a un poema. La lógica de líneas es algo muy computacional. SI lo vemos es como un prompt pero separado por lineas, un prompt siendo más "vibe".
 
-![instrucciones wall drawing 1136](./imgs/lewitt-1118-instructions.jpg): esta obra cambia, busca ser plasmada de forma óptima independiente del lugar. SImepre es distinta pq se adapta a la arquitectura.
+![instrucciones wall drawing 1136](./imgs/lewitt-1118-instructions.jpg): esta obra cambia, busca ser plasmada de forma óptima independiente del lugar. Siempre es distinta pq se adapta a la arquitectura.
 
-Sol lewitt implementaba mucho en el papel, y que la ejecució fuera por humanos. Esto fue aprox en los 60's. En esa época había mucha lógica relacionada al concepto.
+Sol Lewitt implementaba mucho en el papel, y que la ejecución fuera por humanos. Esto fue aprox en los 60's. En esa época había mucha lógica relacionada al concepto.
 
 ## post break
 
@@ -153,18 +153,19 @@ En el pasado, cuando querías ir al internet, ibas. Ahora se te cruza aunque no 
 En el canvas hay una tarea, deben subir el link de tu tarea de hoy.
 
 Trabajaremos con un software que existe en el navegador. P5js es un entorno de programación y ala vez una librería de javascript. UN lenguaje de prog es texto que me permite acceder al computador por medios más similares al lenguaje natural.
+Trabajaremos con un software que existe en el navegador. P5js es un entorno de programación y ala vez una librería de javascript. UN lenguaje de prog es texto que me permite acceder al computador por medios más similares al lenguaje natural.
 
-En el entorno p5js es similar a las instrucciones de Sol Lweitt, pero en vez de estudiantes de arte o espectadores, lo hace el computador,
+En e entorno p5js es similar a las instrucciones de Sol Lewitt, pero en vez de estudiantes de arte mal pagados, lo hace el computador,
 
-Sintaxis: es una forma de escribir. En los computadores es MUY ESTRICTO. tiene el obejtivo de corrdinarnos con el lenguaje binario. Sí podríamos escribir en binario, pero sería mucho mas complejo y locura.
+Sintaxis: es una forma de escribir. En los computadores es MUY ESTRICTO. tiene el objetivo de coordinarnos con el lenguaje binario. Sí podríamos escribir en binario, pero sería mucho mas complejo y locura.
 
-Photoshop por ejemplo, también funciona de esta manera, solo es distinta la interfaz. Esto es lo que se entiende como "niveles de lenaguaje". Mientras más lejano a los 0 y 1 más de "alto nivel" se le considera. Ejemplo de alto nivel(las ias generativas en base a prompts). Un ejemplo de bajo nivel sería "BASIC" o "ASSEMBLY".
+Photoshop por ejemplo, también funciona de esta manera, solo es distinta la interfaz. Esto es lo que se entiende como "niveles de lenguaje". Mientras más lejano a los 0 y 1 más de "alto nivel" se le considera. Ejemplo de alto nivel(las ias generativas en base a prompts). Un ejemplo de bajo nivel sería "BASIC" o "ASSEMBLY".
 
 Uno de los lenguajes más famosos es C.
 
 a través del entorno de p5 podemos emplear el pensamiento computacional. Este no es un curso de p5.
 
-p5 es gratuito y opensource. Creado por Lauren Mcarthy.
+p5 es gratuito y open source. Creado por Lauren Mcarthy.
 
 ### en p5js
 
@@ -172,7 +173,7 @@ Al lado izquierdo vemos el código, donde escribimos lo que queremos que pase.
 
 Arriba tenemos el botón de play y stop.
 
-un lenguaja de prgrmación siempre lee en orden las líneas que escribas.
+un lenguaje de programación siempre lee en orden las líneas que escribas.
 
 realizaciones:
 
@@ -204,11 +205,11 @@ Ejemplo: ["Golpead a los blancos con la cuña roja - El Lissitsky](https://histo
 ### links relevantes
 
 - [sitio específico](https://www.composition.gallery/ES/glosario/qu-es-el-arte-de-sitio-especfico/)
-- [videomapping](https://en.wikipedia.org/wiki/Projection_mapping)
+- [video mapping](https://en.wikipedia.org/wiki/Projection_mapping)
 - [amy goodchild](https://www.amygoodchild.com)
 - [amy goodchild - sol lewitt - chatgpt](https://www.amygoodchild.com/blog/chatgpt-sol-lewitt-wall-drawings)
 - [fluxus](https://es.wikipedia.org/wiki/Fluxus)
-- [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Molnár)arte computacional en los 60, geométrico, psiccodélico.
+- [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Molnár)arte computacional en los 60, geométrico, siccodélico.
 - [Mamfred Mohr](https://www.emohr.com): cubos , similar a SOl Lewitt
 - [blog de referentes de arte computacional de los 50 y 60](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 - [arte algorítmico](https://es.wikipedia.org/wiki/Arte_algorítmico)
