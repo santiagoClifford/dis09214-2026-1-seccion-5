@@ -1,11 +1,8 @@
 # Referencias constructivismo
 
 ![constructivismo1](./constructivismo-ruso/constr1.jpeg)
-
 ![constructivismo1](./constructivismo-ruso/constr2.jpeg)
-
 ![constructivismo1](./constructivismo-ruso/constr3.jpeg)
-
 ![constructivismo1](./constructivismo-ruso/constr4.jpeg)
 ![constructivismo1](./constructivismo-ruso/constr5.jpeg)
 ![constructivismo1](./constructivismo-ruso/constr6.jpeg)

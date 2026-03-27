@@ -181,7 +181,7 @@ realizaciones:
 3. comentarios: libertad para escribir, el códgio se lo salta
 4. guardar y nombrar: esto es solo texto guardado en un link, en tu "nube" del usuario de p5.js, no se guarda en tu pc. es muy liviano
 5. compartir: link de ver y editar, lo usaremos para bitácora por hoy
-6. funciones: las funciones tienen argumentos, cosas que te "pide" TODO agregar links
+6. funciones: las funciones tienen argumentos, cosas que te "pide" 
     1. `createCanvas(ancho, alto)`: debe estar dentro del setup. Con este creamos el tamaño del lienzo
     2. colores: RGB, 1 argumento vs 3 argumentos. 1 argumento es para escala de grises `background(0-255)`, 3 argumentos es para RGB `background(0-255,0-255,0-255)`
     3. `line();` : puntos de origen y punto de destino. `line(x1, y1, x2, y2);`
