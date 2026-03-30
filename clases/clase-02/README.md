@@ -8,7 +8,8 @@ GRABACIONES
 - <https://youtu.be/LskLhX4_668>
 
 SKETCH de p5.js
-- <https://editor.p5js.org/matilov/sketches/_tVpLK3LN>
+- Primera parte <https://editor.p5js.org/matilov/sketches/_tVpLK3LN>
+- Segunda parte <https://editor.p5js.org/matilov/sketches/KM-u3VMui>
 
 ## inicio
 
