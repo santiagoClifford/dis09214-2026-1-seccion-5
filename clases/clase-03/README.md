@@ -14,11 +14,11 @@ Los colores son percepciones del reflejo de la luz procesados por nuestro cerebr
 
 ### análogo y digital
 
-las fotos que vemos en un pc o celular, está formada por pixeles. Es discreto
+las fotos que vemos en un pc o celular, está formada por pixeles. Son discretos
 
-las imágenes analógicas no tiene pixeles. Es continuo.
+las imágenes analógicas no tienen pixeles. Son continuas.
 
-Continuo hace referencia a una transición paulatina entre 2 partes o estados. Discreto es una transición repentina, como los pixeles.
+Continuo hace referencia a una transición fluida entre 2 partes o estados. Discreto es una transición repentina, como los pixeles.
 
 En la vida real, los colores son continuos. A diferencia de los colores en un pc, que son pixeles, osea son discretos.
 
@@ -40,7 +40,7 @@ Esto no es parte de las leyes del universo, es algo creado, se decidió que fuer
 
 a Esto se llama el **sistema numérico en base a 10**
 
-el sistema que utilizamos para la hora, es un **sistema numérico en base a 12**
+el sistema que utilizamos para la hora, viene de los babilonios y es un **sistema numérico en base a 12**
 
 #### binarizar
 
@@ -74,13 +74,51 @@ Todos los dispositivos digitales trabajan en base a lenguaje binario. Por eso la
 
 con 24 bits tenemos 16.777.216 de posibilidades. El ojo humano distingue aprox 10millones de colores.
 
+El formato mapa de bits (.bmp) carece de compresión, cuyo peso depende de la cantidad de pixeles (Resolución), y tiene un peso aproximado de 24 bits por pixel
+
 ## post-break
 
 creamos usuarios de github, nuestro primer archivo, y a partir de ahora las bitácoras se entregan por ahí
 
+[Bitácora armada en clase (pansitoaceituna)](https://github.com/pansitoaceituna/bitacora-de-pensamiento-computacional)
+
 al final tuvimos una pequeña sección de ejemplos de sketches y mostrarse al mundo.
+
+TODO compartir estos sketches
 
 ## relevante
 
 - [fenomenología](https://es.wikipedia.org/wiki/Fenomenología_(filosofía))
 - [mapa de bits](https://es.wikipedia.org/wiki/Imagen_de_mapa_de_bits)
+
+## encargo para próxima semana (17 de abril)
+
+- crear su repositorio en github y compartirlo en la tarea de canvas que van a generar
+
+- crear un archivo clase-03.md dentro de una carpeta clases
+
+- ver algunas de las siguientes peliculas y comentarlas en el archivo clase-03.md. No hay mínimo ni máximo de palabras. Cuidar redacción, y redactar genuinamente. No utilizar IA
+
+    - codigo enigma
+
+    - matrix (la primera)
+
+    - pi: fe en el caos
+
+    - una mente brillante
+
+    - summer wars
+
+    - her
+
+    - yo, robot
+
+    - primer
+
+    - 2 capítulos de black mirror
+
+    - ghost in the shell
+
+## registro de clase
+
+<https://youtu.be/zaKYOURhXSE>

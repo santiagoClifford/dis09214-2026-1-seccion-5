@@ -141,11 +141,13 @@ La nota de la solemne-01 será determinada por el proceso previo(40%) y la entre
 
 * Calculadoras
 
-  * <https://easings.net/>
+  - <https://easings.net/>
 
-  * <https://mermaid.live/>
+  - <https://mermaid.live/>
 
-  * <https://coolors.co/>
+  - <https://coolors.co/>
+
+* <https://www.verostko.com/alg-isea94.html>
 
 * <https://p5js.org/education-resources/>
 
