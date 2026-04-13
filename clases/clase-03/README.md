@@ -122,3 +122,4 @@ TODO compartir estos sketches
 ## registro de clase
 
 <https://youtu.be/zaKYOURhXSE>
+[sketches lindos de p5.js](https://docs.google.com/spreadsheets/d/e/2PACX-1vSbzZ4wIxfXF_2RrmIADtPbXrKdcPJ3NoVtPMsbAQZPfu5g5C3oZXchDPJhORB2Yjr9vPXNDtiivDet/pubhtml)
