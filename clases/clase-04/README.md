@@ -103,9 +103,9 @@ if(segundosQueHanPasado > 10){emitirAlarma}
 - [Neil Harbisson](https://en.wikipedia.org/wiki/Neil_Harbisson)
 - [teorema de pitágoras](https://es.wikipedia.org/wiki/Teorema_de_Pitágoras)
 
-## encargo
+## encargo-04
 
-hacer que figuras primitivas cambien alguna característica en base a variables nativas:
+hacer que formas primitivas varíen en el tiempo. Que cambien alguna característica en base a variables nativas:
 
 - frameCount()
 - mouseX
@@ -121,3 +121,4 @@ qué variables se pueden cambiar:
 - ancho
 - alto
 - posición
+- etcétera
