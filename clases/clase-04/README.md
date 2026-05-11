@@ -107,7 +107,7 @@ if(segundosQueHanPasado > 10){emitirAlarma}
 
 hacer que formas primitivas varíen en el tiempo. Que cambien alguna característica en base a variables nativas: 
 
-PARA ENTREGAR: añadir un archivo en su cuenta de github llamado encargo-04.js y compartir ese enlace
+PARA ENTREGAR: añadir un archivo en su cuenta de github llamado encargo-05.js y compartir ese enlace
 
 - frameCount()
 - mouseX
