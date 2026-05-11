@@ -8,6 +8,8 @@ Se realizará en parejas o individualmente.
 
 Producir una imagen en movimiento basada en la estética de un álbum de música chilena (referencias visuales, videoclips, letras, instrumentación, atmósfera, contexto histórico, etc.).
 
+Al final de este documento encontrarán webs para hallar referentes de música chilena.
+
 ### Descripción del disco
 
 1. ⁠Álbum
