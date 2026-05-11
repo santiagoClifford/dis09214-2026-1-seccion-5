@@ -10,17 +10,17 @@ Producir una imagen en movimiento basada en la estética de un álbum de música
 
 ### Descripción del disco
 
-1.⁠ ⁠Álbum
-•⁠  ⁠Nombre del álbum, año
-•⁠  ⁠Artista(s)
-•⁠  ⁠Tracklist
-•⁠  ⁠¿Qué aspecto del álbum te interesa desarrollar en tu código y por qué?
+1. ⁠Álbum
+2. ⁠Nombre del álbum, año
+3. ⁠Artista(s)
+4. ⁠Tracklist
+5. ⁠¿Qué aspecto del álbum te interesa desarrollar en tu código y por qué? (premisa)
 
 ### ⁠ ⁠Conclusión del proceso
 
-•⁠  ⁠¿Cómo se compara lo que querían desarrollar con el resultado final?
-•⁠  ⁠¿Lograste desarrollar los aspectos que querías? Si no, ¿cuáles?
-•⁠  ⁠¿Qué aspectos emergieron?
+- ⁠¿Cómo se compara lo que querían desarrollar con el resultado final?
+- ⁠¿Lograste desarrollar los aspectos que querías? Si no, ¿cuáles?
+- ⁠¿Qué aspectos emergieron?
 
 ### ⁠ Explicación del código
 
@@ -49,7 +49,7 @@ Deben ocurrir como mínimo 3 tipos de variación o transformación a través del
 •⁠  ⁠opacidad
 •⁠  ⁠movimiento lineal o discontinuo.
 
-Si incluyen interacción (mouse, teclado), debe estar explícita e incluir una instrucción o invitación hacia la interacción.
+- Si incluyen interacción (mouse, teclado), debe estar explícita e incluir una instrucción o invitación hacia la interacción.
 
 ## Evaluación y formato de entrega
 
