@@ -19,7 +19,7 @@ Para agregar imágenes, usamos esta estructura
 - encargo-04: Compartir enlace de repositorio github (en canvas)
 - encargo-05: Comentar película en un archivo en su repositorio (archivo encargo-05.md en github). Compartir enlace en Canvas
 - encargo-06: Exploración de variables y tiempo (archivo encargo-06.js en github). Compartir enlace en Canvas
-- encargo-07: Agregar a proyecto de solemne-01 línea para exportar sketch. Compartir enlace de p5.js
+- encargo-07: Agregar a proyecto de solemne-01 línea para exportar sketch. Compartir enlace de p5.js de imagen de sus repositorios.
 - encargo-08: editar código Akriila (archivo encargo08.js en github). Compartir enlace de p5.js
 
 ### Grupos o individual
