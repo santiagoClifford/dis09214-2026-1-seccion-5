@@ -1,5 +1,17 @@
 # Clase 06
 
+## Clase
+
+Para agregar imágenes, usamos esta estructura
+
+```
+![descripcion de la imagen](./direccionImagen)
+
+![meme nervioso](./img/nervioso.jpg)
+```
+
+![meme nervioso](./img/nervioso.jpg)
+
 ## Info Solemne 2 (22 de mayo)
 
 Se realizará en parejas o individualmente.
