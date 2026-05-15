@@ -14,9 +14,21 @@ Para agregar imágenes, usamos esta estructura
 
 ## Info Solemne 2 (22 de mayo)
 
+### Sobre encargos
+
+encargo-04: Compartir enlace de repositorio github (en canvas)
+encargo-05: Comentar película en un archivo en su repositorio (archivo encargo-05.md en github). Compartir enlace en Canvas
+encargo-06: Exploración de variables y tiempo (archivo encargo-06.js en github). Compartir enlace en Canvas
+encargo-07: Agregar a proyecto de solemne-01 línea para exportar sketch. Compartir enlace de p5.js
+encargo-08: editar código Akriila (archivo encargo08.js en github). Compartir enlace de p5.js
+
+### Grupos o individual
+
 Se realizará en parejas o individualmente.
 
-## Formato de entrega
+### Formato de entrega
+
+Archivo llamado "solemne-02.md" basado en la [plantilla](https://raw.githubusercontent.com/disenoUDP/dis09214-2026-1-seccion-5/refs/heads/main/clases/clase-06/plantilla-solemne02.md)
 
 Producir una imagen en movimiento basada en la estética de un álbum de música chilena (referencias visuales, videoclips, letras, instrumentación, atmósfera, contexto histórico, etc.).
 
@@ -65,13 +77,13 @@ Deben ocurrir como mínimo 3 tipos de variación o transformación a través del
 
 - Si incluyen interacción (mouse, teclado), debe estar explícita e incluir una instrucción o invitación hacia la interacción.
 
-## Evaluación y formato de entrega
+### Evaluación y formato de entrega
 
 Al igual que solemne 1, se revisarán entregas de proceso anteriores, según las tareas de canvas indicadas.
 
 Se revisará en la clase del 22 de mayo con una interrogación oral para dar cuenta de aprendizaje a través de entendimiento de código.
 
-## Referentes
+### Referentes
 
 - ⁠Sello Alerce <https://es.wikipedia.org/wiki/Alerce,_la_otra_m%C3%BAsica>
 
@@ -83,6 +95,6 @@ Se revisará en la clase del 22 de mayo con una interrogación oral para dar cue
 
 - Libro "Casete Nacional" <https://www.libreriadelgam.cl/libro/casete-nacional_108435>
 
-## POR HACER (Equipo docente)
+## Plantilla
 
-Plantilla de markdown para que sea entregada en un solo archivo en sus github.
+[./plantilla-solemne02.md](plantilla-solemne02.md)
