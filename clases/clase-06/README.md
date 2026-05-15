@@ -83,7 +83,7 @@ for(let i =0; i<10; i= i+1){
 
 - [ejemplo sin, cos](https://editor.p5js.org/clifford1one/sketches/U8Wjx86Fl)
 
-![animation seno y coseno](./imgs/Sine_and_cosine_animation.gif)
+- ![animation seno y coseno](./imgs/Sine_and_cosine_animation.gif)
 
 - [documentación ciclo for](https://p5js.org/reference/p5/for/)
 
