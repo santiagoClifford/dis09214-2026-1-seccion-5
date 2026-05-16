@@ -98,3 +98,76 @@ Se revisará en la clase del 22 de mayo con una interrogación oral para dar cue
 ## Plantilla
 
 [./plantilla-solemne02.md](plantilla-solemne02.md)
+
+---
+
+## Introducción
+
+Hablamos del encargo para la solemne-2, se entrega el próximo viernes 22 de mayo: un sketch basado en un **disco** de música chilena.
+
+¿Qué es un disco? Dentro de ese contexto, existen singles, EP y LP, llamados en base al tamaño del vinilo que necesitan para caber enteros.
+
+- **Single**: una sola canción
+- **EP** (extended play): aprox. 4-5 canciones
+- **LP** (long play): un álbum completo
+
+El requisito es que en la página donde lo encuentren, diga que es un álbum. **NO un EP**.
+
+## Pseudocódigo
+
+Un pseudocódigo es la descripción simplificada y estructurada de un programa. Ejemplo:
+
+```
+// un fondo de color verde musgo
+// una elipse al medio que sea más ancho que alto
+// que la elipse se mueva lentamente hacia la izquierda
+// que la elipse gire 90 grados, de modo que quede más alta que ancha
+// el relleno de la elipse debe cambiar de color a un lila
+```
+
+Así pueden programar sin saber de código, y los resultados que les dé la IA serán basados en su planificación y no en la base de datos de la IA.
+
+## Cátedra
+
+### Ciclo for
+
+El ciclo `for` nos permite repetir una acción una cantidad determinada de veces, cambiando una de sus características (posición, color, etc.). Por ejemplo, en vez de escribir 100 veces una línea de código que coloque una elipse, puedes generar las 100 elipses con un ciclo for.
+
+La sintaxis es la siguiente:
+
+```javascript
+for(qué, cómo va cambiando, cuándo se detiene){
+    ellipse(posicion en x, posicion en y, ancho, alto);
+}
+```
+
+```javascript
+for(let i = 0; i < 100; i++){
+    ellipse(i, 0, 200, 200);
+}
+```
+
+### Arrays
+
+Un array es un listado que contiene múltiples variables. Cuando en un código tenemos múltiples variables, podemos dejarlas dentro de un array.
+
+La ventaja de usar `for` en conjunto a un array es que con el for puedes ir cambiando qué elementos del listado estás llamando. Por ejemplo, en un array de palabras, gracias al for puedo ir llamando a los distintos elementos a medida que pasa el tiempo.
+
+```javascript
+// defino los elementos dentro de mi array
+let personajes = ["condorito", "papelucho", "mampato", "tulio", "mateo", "segurito"];
+
+// por cada "vuelta" al loop, suma 1 a la variable
+for(let i = 0; i < 10; i = i + 1){
+    text(personajes[i], width/2, height/2);
+}
+// al inicio escribe condorito, a la siguiente vuelta escribe papelucho,
+// a la siguiente vuelta escribe mampato, y así.
+```
+
+### Relevante
+
+- [Ejemplo sin, cos](https://editor.p5js.org/clifford1one/sketches/U8Wjx86Fl)
+- ![animación seno y coseno](./imgs/Sine_and_cosine_animation.gif)
+- [Documentación ciclo for](https://p5js.org/reference/p5/for/)
+- [Documentación arrays](https://p5js.org/reference/p5/Array/)
