@@ -208,7 +208,7 @@ nos vemos en 2 semanas, son 2 encargos.
 
 ### encargo-06
 
-agregar una línea al código de tu solemne-1, que exporte tu sketch en una imgane cuando hagas click
+agregar una línea al código de tu solemne-1, que exporte tu sketch en una imagen cuando hagas click
 
 ```js
 
@@ -219,6 +219,7 @@ function mousePressed(){
 ```
 
 ### encargo-07
+
 editar el código de akrila-rebota.
 
 - implementar rebote en el eje vertical.
@@ -226,3 +227,9 @@ editar el código de akrila-rebota.
 - que cambie el color de fondo
 - con una nueva imagen
 - (opcional) poner una imagen de fondo
+
+### Videos
+
+parte 1 <https://youtu.be/HqR5jewTW0g>
+
+parte 2 <https://youtu.be/K1Q4m1cqxUE>
